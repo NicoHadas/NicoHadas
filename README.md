@@ -14,10 +14,9 @@ My primary research interest is in developing deep learning frameworks to model 
 ---
 
 ### Projects
--  **CiliaTracks** — Computational framework that tracks, analyzes and classifies cilia-propelled particle trajectories
--  **Airway Transcriptomics** — GRN analysis using generative transformers with single-cell data
--  **scAgent** — Agentic system to probe local scRNA-Seq data
--  **Single-cell Perturbation** - Deep learning for perturbation predictions
+-  **CiliaTracks** — Tracking, analysis and classification of particle trajectories
+-  **Airway Transcriptomics** — GRN analysis using generative transformers 
+-  **scAgent** — Agentic system for single-cell data
 -  **Biomedical Informatics** - EHR modeling
 
 
