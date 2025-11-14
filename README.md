@@ -8,7 +8,7 @@
 
 ---
 
-### About
+### My Research
 My primary research interest is in developing deep learning frameworks to model cellular function and better understand disease pathogenesis. I create computational tools and employ machine learning to investigate disease mechanisms using biological and biomedical data.
 
 ---
